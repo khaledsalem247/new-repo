@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/new-repo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/new-repo/static/js/main.a5d8b3d7.chunk.js",
+    "main.js.map": "/new-repo/static/js/main.a5d8b3d7.chunk.js.map",
+    "runtime-main.js": "/new-repo/static/js/runtime-main.b245852e.js",
+    "runtime-main.js.map": "/new-repo/static/js/runtime-main.b245852e.js.map",
+    "static/js/2.f329fbd9.chunk.js": "/new-repo/static/js/2.f329fbd9.chunk.js",
+    "static/js/2.f329fbd9.chunk.js.map": "/new-repo/static/js/2.f329fbd9.chunk.js.map",
+    "index.html": "/new-repo/index.html",
+    "precache-manifest.009163d90b29aece0e638c6110228c34.js": "/new-repo/precache-manifest.009163d90b29aece0e638c6110228c34.js",
+    "service-worker.js": "/new-repo/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/new-repo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f329fbd9.chunk.js.LICENSE.txt": "/new-repo/static/js/2.f329fbd9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/new-repo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b245852e.js",
+    "static/js/2.f329fbd9.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a5d8b3d7.chunk.js"
+  ]
+}
